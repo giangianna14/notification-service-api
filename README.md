@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **Portfolio Project 2** — Production-inspired notification microservice reconstructed from enterprise experience at PT ASDP Indonesia Ferry.  
-> Live demo: **https://notification-api-xxx.railway.app/docs** *(replace after deploy)*
+> **Live demo:** https://notification-service-api-production.up.railway.app/docs
 
 ---
 
@@ -185,7 +185,7 @@ git push -u origin main
 # 5. Copy the generated URL → paste below
 ```
 
-**Live URL:** `https://notification-api-xxx.railway.app/docs`
+**Live URL:** https://notification-service-api-production.up.railway.app/docs
 
 ---
 
@@ -228,3 +228,4 @@ tests/test_notifications.py::test_notify_whatsapp_mock         PASSED
 [github.com/giangianna14](https://github.com/giangianna14)  
 
 > *See also: [Telecom Monitoring Automation](https://github.com/giangianna14/telecom-monitoring-automation) — Portfolio Project 1*
+
