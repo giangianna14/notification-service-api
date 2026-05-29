@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > **Portfolio Project 2** — Production-inspired notification microservice reconstructed from enterprise experience at PT ASDP Indonesia Ferry.  
-> Live demo: **https://notification-api-xxx.railway.app/docs** *(replace after deploy)*
+> Live demo: **https://notification-service-api-production.up.railway.app/docs**
 
 ---
 
